@@ -1,13 +1,10 @@
 # PRODIGY_DS_3
 
-
-
 # Bank Dataset Visualization
 
 ## Overview
 
-This project demonstrates how to create **bar charts** and **histograms** to visualize the distribution of variables in a Bank dataset. The dataset typically contains information about clients, their demographics, and banking behaviors.
-
+The Bank Marketing dataset consists of 45,211 rows and 17 columns, providing a rich and structured source of customer demographic, financial, and campaign-related information suitable for classification and predictive analysis.
 ## Objectives
 
 * Explore the bank dataset to understand customer demographics and behaviors
@@ -37,6 +34,18 @@ The dataset includes the following key columns:
 * Python
 * Pandas (data handling)
 * Matplotlib or Seaborn (visualization)
+
+## Project Goals
+
+Understand customer demographics and financial behavior
+
+Explore relationships between features and subscription outcomes
+
+Prepare the dataset for classification modeling
+
+Support marketing decision-making through data insights
+
+
 
 ## Steps
 
